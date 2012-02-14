@@ -1,6 +1,6 @@
 # Backbone AMD
 
-Example of using Backbone.js, Underscore.js and jQuery together with RequireJS. It uses wrappers for Backbone and Underscore.
+Example of using Backbone.js, Underscore.js and jQuery together with RequireJS. It uses wrappers for Backbone and Underscore. The latest releases for Backbone.js and Underscore.js don't support AMD by default, but it is easy to make them AMD compatible without changing the code of Backbone.js and Underscore.js itself.
 
 ## Underscore.js wrapper
 
