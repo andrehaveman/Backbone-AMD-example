@@ -1,8 +1,5 @@
-// Require.js allows us to configure shortcut alias
 require.config({
   paths: {
-    order: 'libs/require/order',
-    text: 'libs/require/text',
     domReady: 'libs/require/domReady',
     jquery: 'libs/jquery/jquery',
     underscore: 'libs/underscore/underscore-amd',
