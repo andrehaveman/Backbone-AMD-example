@@ -1,4 +1,4 @@
-// Backbone AMD wrapper
+// Backbone.js AMD wrapper
 define([
   'exports',
   'underscore',
