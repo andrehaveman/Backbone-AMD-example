@@ -1,3 +1,7 @@
+## Important!
+
+Since RequireJS 2.0 this example is not relevant anymore. You can use the shim configruation of RequireJS to load Backbone and Underscore. See http://requirejs.org/docs/api.html#config-shim for more information.
+
 # Backbone AMD
 
 Example of using Backbone.js, Underscore.js and jQuery together with RequireJS. It uses wrappers for Backbone and Underscore. The latest releases for Backbone.js and Underscore.js don't support AMD by default, but it is easy to make them AMD compatible without changing the code of Backbone.js and Underscore.js itself.

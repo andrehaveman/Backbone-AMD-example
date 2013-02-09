@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Mongo">
+    <option name="serverVersion" value="2.0.4" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+</project>
+
